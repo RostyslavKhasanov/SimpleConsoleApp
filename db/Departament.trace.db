@@ -1,0 +1,3 @@
+2019-05-28 10:31:43 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Нет данных
+No data is available [2000-199]
